@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/Download/koiprivatebrowser-127/KoiBrowser/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 3542,
+          "line": 100
+        },
+        "start": {
+          "column": 1,
+          "index": 3542,
+          "line": 100
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/Download/koiprivatebrowser-127/KoiBrowser/app/build.gradle.kts"
+}
